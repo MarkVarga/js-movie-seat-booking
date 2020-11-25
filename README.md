@@ -1,1 +1,1 @@
-# markvarga.github.io-js-movie-seat-booking
+A movie seat booking web app using HTML, CSS and JavaScript. You can select from different movies and seats, your selection is stored in local storage so even when you refresh the browser, your selections will not disappear.
